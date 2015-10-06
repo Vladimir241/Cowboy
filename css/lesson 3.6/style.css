@@ -1,0 +1,20 @@
+body{
+	background: #f1f1f1;
+}
+
+.wrap{
+	width: 600px;
+	margin: auto;
+	font-family: sans-serif;
+	font-weight: bold;
+}
+
+blockquote{
+	text-align: center;
+	border:3px solid white;
+	margin-left:0;
+}
+
+
+
+

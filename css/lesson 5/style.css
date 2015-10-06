@@ -1,0 +1,13 @@
+.banner{
+	background: url(../../test/img/banner.gif);
+	width: 695px;#!/usr/bin/env 
+	height: 231px;
+}
+
+header h1{
+	background: url(../../test/img/logo.png) no-repeat;
+	text-indent: -999px;
+	width: 172px;
+	height: 25px;
+}
+ 

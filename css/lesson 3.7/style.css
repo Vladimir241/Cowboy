@@ -1,0 +1,31 @@
+body{
+	margin: 0;
+}
+
+.wrap{
+	min-width: 300px;
+	width: 80%;
+	margin: auto;
+	background: green;
+	overflow: hidden;
+}
+
+.content, aside{
+	height: 300px;
+}
+.content{
+	float:left;
+	width:80%;
+	background: red;
+}
+
+aside{
+	width: 20%;
+	float: left;
+	background: brown;
+}
+
+aside ul{
+	list-style: none;
+}
+

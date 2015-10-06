@@ -1,0 +1,16 @@
+#me{
+	color:red;
+}
+
+.emphesise{
+	color:green;
+}
+
+.firstlist li:nth-child(2){
+	color: yellow;
+}
+
+ul:nth-child(2){
+	text-align:center;
+	list-style: none;
+}
